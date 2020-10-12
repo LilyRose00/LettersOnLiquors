@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Graphics on Gins
+title: Graphics On Gins
 date: 2020-10-12T14:53:22.994Z
 header_feature_image: ../uploads/ross-sneddon-wu1uan5i-sy-unsplash.jpg
 caption: "Taken by Ross Sneddon on Unsplash "
