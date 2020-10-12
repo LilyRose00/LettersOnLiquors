@@ -6,6 +6,6 @@ header_feature_image: ../uploads/photo-1508253730651-e5ace80a7025.jpeg
 bannerheight: 20vmax
 logo: ../uploads/screenshot-2020-10-08-at-14.37.58.png
 favicon: ../uploads/screenshot-2020-10-08-at-14.37.58.png
-gridlayout: false
+gridlayout: true
 fixednavbar: false
 upzoom: true
