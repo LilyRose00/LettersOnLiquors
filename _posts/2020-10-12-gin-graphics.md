@@ -7,7 +7,7 @@ caption: "Taken by Ross Sneddon on Unsplash "
 comments: false
 tags: null
 ---
-*With the popularity of gin forever rising the need for eye chatching bottles and labels if forever increasing, how does a bottle of gin stand out from behind the bar?* 
+*With the popularity of gin forever rising the need for eye catching bottles and labels is forever increasing. How does a bottle of gin stand out from behind the bar?* 
 
 There’s something special about a Gin and Tonic, it's perfectly suited to every occasion. Suns out? Have a cool, crisp, Gin and Tonic. Long cold winters day put the fire on, sit back and pour yourself a refreshing G&T. Stressed? Go on.....Enjoy a G&T!  That zesty gin balanced out perfectly with a bitter tonic water helps get rid of all problems! No wonder it was first used [as a medicine back in 1600s ](https://www.themanual.com/food-and-drink/a-brief-history-of-gin/) to treat the people of Holland that suffered with dyspepsia and gout.
 
