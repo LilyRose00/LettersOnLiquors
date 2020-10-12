@@ -2,7 +2,7 @@
 layout: post
 title: "Gin Graphics "
 date: 2020-10-12T14:53:22.994Z
-header_feature_image: ../uploads/screenshot-2020-10-12-at-15.46.18.png
+header_feature_image: ../uploads/raphael-lovaski-j5brvjrt1h0-unsplash.jpg
 caption: Taken by Micheile Henderson on Unsplash
 comments: false
 tags: null
