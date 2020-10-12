@@ -2,8 +2,8 @@
 layout: post
 title: "Gin Graphics "
 date: 2020-10-12T14:53:22.994Z
-header_feature_image: ../uploads/raphael-lovaski-j5brvjrt1h0-unsplash.jpg
-caption: Taken by Micheile Henderson on Unsplash
+header_feature_image: ../uploads/ross-sneddon-wu1uan5i-sy-unsplash.jpg
+caption: "Taken by Ross Sneddon on Unsplash "
 comments: false
 tags: null
 ---
