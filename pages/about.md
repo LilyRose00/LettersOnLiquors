@@ -10,7 +10,7 @@ tags: null
 description: null
 show: true
 ---
-# **Hello & Welcome,**
+## **Hello & Welcome,**
 
 To Letters on Liquors, the blog that looks into typography on alcoholic beverages.
 
@@ -20,7 +20,7 @@ You may think as a University Student how am I to have much knowledge on alcohol
 
 Having grown up observing all the exceptional alcoholic beverages my parents were drinking, and at sixteen getting a sip (if I was so lucky) with my dinner. I now at 20 years of age feel I know more than the average 20 year old when it comes to alcoholic drinks. This being said the superiority of my knowledge is in the design of the bottles the alcohol arrives in, as I've seen a few in my time.
 
-## Imagery
+#### Imagery
 
 *Logo*\
 \
