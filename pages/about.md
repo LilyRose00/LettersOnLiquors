@@ -18,7 +18,9 @@ My name is Lily and I’m a second year university student studying Journalism, 
 
 You may think as a University Student how am I to have much knowledge on alcohol that isn't tesco’s own brand, well I have been fortunate enough to have been born into a family with a love for the “finer” alcohol in life!
 
-Having grown up observing all the exceptional alcoholic beverages my parents were drinking, and at sixteen getting a sip (if I was so lucky) with my dinner. I now at 20 years of age feel I know more than the average 20 year old when it comes to alcoholic drinks. This being said the superiority of my knowledge is in the design of the bottles the alcohol arrives in, as I've seen a few in my time.
+Having grown up observing all the exceptional alcoholic beverages my parents were drinking, and at sixteen getting a sip (if I was so lucky) with my dinner. I now at 20 years of age feel I know more than the average 20 year old when it comes to alcoholic drinks. This being said the superiority of my knowledge is in the design of the bottles the alcohol arrives in, as I've seen a few in my time. My end goal for this blog is to create a space in which people can learn and look into typography on alcoholic beverages at greater dephth.
+
+
 
 #### Imagery
 
