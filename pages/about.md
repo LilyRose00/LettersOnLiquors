@@ -30,8 +30,8 @@ When creating my Logo I chose to keep it simple, the little bottle on the left s
 
 *Banner*
 
-For my banner image I have taken advantage of [unsplash](https://www.google.com/search?q=unsplashed&rlz=1C5CHFA_enGB868GB872&oq=unsplash&aqs=chrome.0.69i59j69i57j0l3j69i60l3.2806j0j7&sourceid=chrome&ie=UTF-8) a website in which you can download high quality photographs for free, my particular image was taken by [Adam Wilson](<https://unsplash.com/@fourcolourblack>). I selected this as I feel it is perfectly suited to my blog, and helps in keeping the brand and blog alike.
+For my banner image I have taken advantage of [unsplash](https://www.google.com/search?q=unsplashed&rlz=1C5CHFA_enGB868GB872&oq=unsplash&aqs=chrome.0.69i59j69i57j0l3j69i60l3.2806j0j7&sourceid=chrome&ie=UTF-8) a website in which you can download high quality photographs for free, my particular image was taken by [Adam Wilson](https://unsplash.com/@fourcolourblack). I selected this as I feel it is perfectly suited to my blog, and helps in keeping the brand and blog alike.
 
+![](../uploads/screenshot-2020-10-02-at-13.14.20.png)
 
-
-*Enjoy!*
+*Hope You Enjoy!*
