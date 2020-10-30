@@ -9,3 +9,6 @@ favicon: ../uploads/screenshot-2020-10-08-at-14.37.58.png
 gridlayout: false
 fixednavbar: false
 upzoom: true
+items:
+  - name: About The Author
+    siteurl: /aboutme
