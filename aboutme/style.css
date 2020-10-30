@@ -1,0 +1,206 @@
+/* ---- General Styles ---- */
+body{
+	margin: 30px 40px;
+	text-align: left;
+	font-family: "Times New Roman", Times, serif;
+	font-weight: 200;
+	font-size: 20px
+}
+
+h1{
+font-size: 60px;
+text-align: center;
+}
+
+.box {
+border:1px solid black;
+margin-bottom: 12px;
+padding-right: 20px;
+padding-left: 20px;
+flex-basis: 300px;
+margin-left: 20px;
+margin-top: 20px;
+}
+
+.box img {
+width:100%;
+}
+
+
+main {
+	/* border: 1px solid black; */
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+
+ /*---- Introduction Section ---- */
+.introduction_section {
+	height: 500px;
+	width: 100%;
+	background-image: url(./img/plants.jpg);
+	background-size: cover;
+}
+
+/* Profile Picture */
+.profile_picture_circle {
+	padding-top: 100px;
+}
+
+.profile_picture {
+	background-image: url(./img/meinvenice.jpeg);
+	background-position: center;
+	width: 160px;
+	height: 160px;
+	border: white 5px solid;
+	border-radius: 50%;
+	background-size: 105%;
+
+	margin-right: auto;
+	margin-left: auto;
+}
+
+/* Hello text */
+.hello_title {
+	color: white;
+	text-align: center;
+	font-size: 50px;
+	margin-top: 10px;
+	margin-bottom: 0px;
+}
+
+.hello_title2 {
+	color: white;
+	text-align: center;
+	font-size: 40px;
+	margin-top: 10px;
+	margin-bottom: 0px;
+}
+
+.hello_subtitle {
+	color: white;
+	text-align: center;
+	font-size: 19px;
+	margin-top: 0px;
+}
+
+
+/* ---- Few Things Banner ---- */
+.few_things_banner {
+	background-color: #515151;
+}
+
+.few_things_text {
+	color: white;
+	font-size: 30px;
+	text-align: center;
+	margin: 0;
+	padding: 15px;
+}
+
+
+
+/* Text Highlight Colour */
+.highlight {
+	color: #66ccff;
+	font-weight: 50;
+	font-family: "Arial Black", Gadget, sans-serif;
+}
+
+/* fact Links */
+.fact_link {
+	color: #0099ff;
+	font-weight: 500;
+	text-decoration: none;
+	border-bottom: 3px solid #0099ff;
+	padding: 0px 2px 0px 2px;
+}
+
+.fact_link:hover {
+	color: #EFEFEF;
+	background-color: #669999;
+	padding: 0px 2px 0px 2px;
+}
+
+
+
+/* --- family --- */
+
+
+.familytext {
+	font-family: "Courier New", Courier, monospace;
+	text-align: left;
+	color: white;
+	font-size: 20px;
+	font-weight: 300;
+	line-height: 35px;
+
+	max-width: 760px;
+	margin: 0 auto 0 auto;
+	padding: 0px 15px 15px;
+}
+
+
+.family{
+	background-color: #66ccff;
+	width: 100%;
+	color: white;
+	padding-top: 15px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+.family img {
+	max-width:100%;
+	height: 200px;
+}
+
+.float-img{
+	float: left;
+	margin-right:10px;
+	margin-bottom:5px;
+	border:solid black 1px;
+	padding:2px;
+}
+
+
+
+/* 'Tell me about you' Box */
+.tell_me_link {
+	text-align: center;
+	color: white;
+	font-size: 40px;
+	font-weight: 300;
+	line-height: 70px;
+
+	padding: 0px;
+	margin: auto;
+	padding-bottom: 100px;
+	padding-top: 30px;
+}
+
+.tell_me_link a {
+	color: white;
+	text-decoration: none;
+	border: white 3px solid;
+	border-radius: 5px;
+
+	padding: 10px 20px 10px 20px;
+}
+
+.tell_me_link a:hover {
+	color: #515151;
+	background-color: white;
+	text-decoration: none;
+	border: white 3px solid;
+	border-radius: 5px;
+
+	padding: 10px 20px 10px 20px;
+}
+
+.learned_text{
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 30px;
+	text-align: center;
+}
