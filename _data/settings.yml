@@ -3,7 +3,7 @@ description: "The blog that looks into typography on beverages. "
 header_text: "Letters On Liquors "
 footer_text: Copyright 2020 Lily-Rose Hill
 header_feature_image: ../uploads/img_0099.jpg
-bannerheight: 20vmax
+bannerheight: 40vmax
 logo: ../uploads/screenshot-2020-11-21-at-10.54.26.png
 favicon: ../uploads/screenshot-2020-11-21-at-10.54.26.png
 gridlayout: true
