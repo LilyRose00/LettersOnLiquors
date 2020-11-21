@@ -2,7 +2,7 @@
 layout: post
 title: Antinori Wine
 date: 2020-10-09T18:34:48.208Z
-header_feature_image: ../uploads/img_0091.jpg
+header_feature_image: ../uploads/img_0092.jpg
 comments: false
 ---
 Tuscany, such an idyllic region of Italy with so much to offer it’s not a surprise that it is in [the top 30 most visited regions in the EU](http://www.italian-lawyer.eu/veneto-tourism). It has it all fabulous fashion, delicious food, art, architecture, breathtaking landscapes, beautiful beaches and much much more. It also produces some of the finest wines in world. [With nearly 2.78 million hectoliters of wine produced in 2014 ](https://daily.sevenfifty.com/regions/tuscany/#:~:text=Nearly%20two%2Dthirds%20of%20Tuscany's,2.78%20million%20hectoliters%20of%20wine)Tuscany has become one of Italy's largest wine producing regions.
