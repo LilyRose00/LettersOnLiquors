@@ -2,7 +2,7 @@
 layout: post
 title: Graphics On Gins
 date: 2020-10-12T14:53:22.994Z
-header_feature_image: ../uploads/ross-sneddon-wu1uan5i-sy-unsplash.jpg
+header_feature_image: ../uploads/img_0089.jpg
 caption: "Taken by Ross Sneddon on Unsplash "
 comments: false
 tags: null
