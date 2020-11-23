@@ -4,7 +4,7 @@ title: "About "
 subtitle: "Letters On Liquors "
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
-header_feature_image: ../uploads/photo-1508253730651-e5ace80a7025.jpeg
+header_feature_image: ../uploads/img_0120.jpg
 published: true
 tags: null
 description: null
@@ -20,15 +20,13 @@ You may think as a University Student how am I to have much knowledge on alcohol
 
 Having grown up observing all the exceptional alcoholic beverages my parents were drinking, and at sixteen getting a sip (if I was so lucky) with my dinner. I now at 20 years of age feel I know more than the average 20 year old when it comes to alcoholic drinks. This being said the superiority of my knowledge is in the design of the bottles the alcohol arrives in, as I've seen a few in my time. My end goal for this blog is to create a space in which people can learn and look into typography on alcoholic beverages at greater dephth.
 
-
-
 #### Imagery
 
 *Logo*\
 \
-When creating my logo I chose to keep it simple, the little bottle on the left signifies liquor and the “L” next to the bottle reflects letters which are put together to make Letters On Liquors. Yes, I am aware that the idealists out there would recognize the logo spells this backwards.. but the bottle looks more aesthetically pleasing on the left hand side of the L, so you will have to simply put up with it. When attempting to create a logo for my blog I realised my initials spell LOL, and as I'm sure you've already realised this didn't reflect my blog so I had to abolish the O. The font I have selected is written in the typeface Didot which is a modern typeface with very thin serifs and an extreme contrast. The font itself is Didot bold, this undoubtedly makes my L stand out. Didot is heavily associated with magazine brands such as Vogue. Though my blog is not a magazine I wanted to keep the blog classy thus making Didot the perfect lettering. As my logo is already very simple I have made a decision to keep both my logo and favicon the same.
+When creating my logo I chose to keep it simple,the “L” on the left of the bottle stands for letters the little bottle on the right signifies liquor which are put together to make Letters On Liquors. . When attempting to create a logo for my blog I realised letters on liquors had the initials LOL, and as I'm sure you've already realised this didn't reflect my blog so I had to abolish the O. The font I have selected is written in the typeface Didot which is a modern typeface with very thin serifs and an extreme contrast. The font itself is Savoye LET, this undoubtedly makes my L stand out. Savoye was created in 1992 by Alan Meeks. I believe this font to be perfectly suited to my blog due to the fact that it looks as though it has been hand written which makes it pretty and elegant, matching the bottles I will be discussing in this blog. As my logo is already very simple I have made a decision to keep both my logo and favicon the same.
 
-![](../uploads/screenshot-2020-10-08-at-14.37.58.png)
+![](../uploads/img_0108.jpg)
 
 *Banner*
 
