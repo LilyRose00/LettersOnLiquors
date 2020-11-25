@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TIME FLIES WHEEN YOU'RE HAVING RUM "
+title: "TIME FLIES WHEN YOU'RE HAVING RUM "
 date: 2020-10-20T13:44:52.347Z
 header_feature_image: ../uploads/img_0188.jpg
 comments: true
