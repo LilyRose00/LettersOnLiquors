@@ -5,7 +5,7 @@ date: 2020-11-10T12:14:22.207Z
 header_feature_image: ../uploads/img_0181.png
 comments: true
 ---
-*How do you design of Liquid sunshine?*
+*Whats the design on Liquid sunshine?*
 
 \
 Due to its high percentage whiskey tends to be a liquor that hangs around on the shelf as a decoration until the cigars come out. Therefore the design of the bottle and label is crucial in keeping the brand alive (nobody wants an ugly whiskey bottle on display) . No bottle is the same; they all seem to have their own unique design/ style. How do these bottles stand out from one another and what variety of fonts help them do so?
