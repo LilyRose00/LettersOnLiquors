@@ -5,6 +5,8 @@ date: 2020-11-10T12:14:22.207Z
 header_feature_image: ../uploads/img_0181.png
 comments: true
 ---
+*How do you design of Liquid sunshine?*
+
 \
 Due to its high percentage whiskey tends to be a liquor that hangs around on the shelf as a decoration until the cigars come out. Therefore the design of the bottle and label is crucial in keeping the brand alive (nobody wants an ugly whiskey bottle on display) . No bottle is the same; they all seem to have their own unique design/ style. How do these bottles stand out from one another and what variety of fonts help them do so?
 
@@ -24,25 +26,17 @@ When looking at the main word “HIBIKI” the font has small pointed serifs whi
 
 Corn may sound like a rather odd ingredient to have 90 % of your whiskey made out of however, this drink has proved to be rather popular throughout the last 80 odd years. The bottle itself differs from your average whiskey bottle as it's almost a bit boring, its shaped like your average bottle of alcohol. The label however is bright and vibrate drawing in a consumer's eye. I am particularly fond of the use of the word mellow being on a yellow background although this label came out way before the 60s song mellow yellow everytime I look at this bottle I can't resist singing the tune in my head. 
 
-This american style whiskey is unique due to the lack of corn whiskeys. An interesting fact about this whiskeys label is that the label hasn't changed since it was created in the 1940s, the reason for this was [“because the original distillery was so confident that it would sell so well that they ordered 100s and 1000s of labels and then couldn’t shift them, so it has remained the same since to maintain that history."](<https://whiskyunplugged.com/2018/02/11/tasting-notes-mellow-corn/>) - Unplugged Whiskey Blog. This feels very true when looking at the label and  you can most definitely tell it was designed 80 years ago. I like the fact that its old, it adds character. The fact that its vintage makes the label cool and trendy. The font used for “Mellow Corn” is very similar to the typeface sans Neometric created by an american designer Adres Sanchez due to its circle-theme. However this label has been around way before Neometric came into play and the font on the label is more squished together than Neometric but they do share some similaires.
-
-
+This american style whiskey is unique due to the lack of corn whiskeys. An interesting fact about this whiskeys label is that the label hasn't changed since it was created in the 1940s, the reason for this was [“because the original distillery was so confident that it would sell so well that they ordered 100s and 1000s of labels and then couldn’t shift them, so it has remained the same since to maintain that history."](https://whiskyunplugged.com/2018/02/11/tasting-notes-mellow-corn/) - Unplugged Whiskey Blog. This feels very true when looking at the label and  you can most definitely tell it was designed 80 years ago. I like the fact that its old, it adds character. The fact that its vintage makes the label cool and trendy. The font used for “Mellow Corn” is very similar to the typeface sans Neometric created by an american designer Adres Sanchez due to its circle-theme. However this label has been around way before Neometric came into play and the font on the label is more squished together than Neometric but they do share some similaires.
 
 ![](../uploads/screenshot-2020-11-25-at-12.31.46.png "KOVAL, Single Barrel Whiskey")
 
 ![](../uploads/screenshot-2020-11-25-at-12.36.04.png)
-
-
 
 [KOVAL:  Range from 40 to 60](https://www.koval-distillery.com/newsite/)
 
 Koval differs from the other whiskeys I have been looking at, due to how relatively new Koval distillery is. Founded in 2008 the Chicago distillery has only been around for 12 years. You can see how modern this whiskey is when looking at the design of the bottles. The font used for the name of the whiskey “Koval” is very close (if not identical)  to  the font Westmont Bold, Westmont is a sans font with wide spacing in between the letters which is supposed to create the perfect amount of balance and presence. This along with the use of capital letters creates a very clean layout and timeless branding, which suits a classy drink like whiskey. 
 
 I love the way this brand has a range of different color labels for all the different flavors and think they would look very impressive lined up on a shelf.
-
-
-
-
 
 ![](../uploads/img_0179.png "Jack Daniel's, Sour Mash Whiskey")
 
