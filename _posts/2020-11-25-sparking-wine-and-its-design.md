@@ -6,15 +6,11 @@ comments: true
 ---
 *How does the design of Champagne promote its importance?*
 
-
-
  “I only drink champagne when i'm happy and when i'm sad. Sometimes I drink it when I'm alone. When I have company I consider it obligatory. I trifle with it if I'm not hungry and I drink it when I am. Otherwise I never touch it ---- unless I'm thirsty.”
 
 \-- Lily Bollinger -- 
 
 Champagne is perfectly suited to any occasion (so long as you've got the money to afford it). Champagne is special compared to other alcoholic drinks and unless you LIly Bollinger its a drink for special occasions like christmas morning (and throughout the day), New Years, Birthdays and even funerals (that is if you are of the opinion that you must celebrate life at a funeral). But how does champagne stand out when it comes to design? 
-
-
 
 ***First some background*** 
 
@@ -31,11 +27,13 @@ Lets have a look at some well-known labels...
 
 
 
-
+![Picture of Moet Bottle with box ](../uploads/screenshot-2020-11-25-at-14.20.24.png "Moet & Chandon Imperial")
 
 ** [Moët : £27.50](https://www.waitrose.com/ecom/products/moet-and-chandon-brut-imperial-nv/083809-42548-42549)**
 
 Simple but elegant, this bottle looks classy and expensive.Having a box for the champagne to arrive in makes us feel like its special, and i guess after taking a minimum of fifteen months to make it really is.We instantly know from looking at this bottle where its come from due to its name with the use of ‘ë’. The font is simple and looks rather similar to Times New Roman. It makes use of serifs which in this case are sharp, the font also has a high contrast which makes it look classic.  
+
+![Bottle of Bollinger ](../uploads/50542b_1.png "Bollinger, Special Curvee ")
 
 
 
@@ -47,7 +45,7 @@ This bottle looks important. If the royal seal isn't enough then take a look at 
 
 
 
-
+![Bottle of Don Perignon](../uploads/15635376013342.jpg "Don Perignon")
 
 [Dom Perignon:  £105](https://www.waitrose.com/ecom/products/dom-perignon-vintage-champagne/082418-41929-41930)
 
