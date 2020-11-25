@@ -2,6 +2,7 @@
 layout: post
 title: Sparking Wine And It's Design
 date: 2020-11-25T13:13:20.614Z
+header_feature_image: ../uploads/img_0187.jpg
 comments: true
 ---
 *How does the design of Champagne promote its importance?*
