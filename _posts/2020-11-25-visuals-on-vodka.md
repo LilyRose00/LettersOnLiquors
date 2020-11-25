@@ -2,7 +2,7 @@
 layout: post
 title: "Visuals on Vodka "
 date: 2020-10-19T14:07:32.769Z
-header_feature_image: ../uploads/img_0189.jpg
+header_feature_image: ../uploads/img_0191.jpg
 comments: true
 ---
 *The [alcoholic drink made from potatoes ](<https://economictimes.indiatimes.com/industry/cons-products/liquor/10-alcoholic-drinks-and-their-magic-ingredients/whiskey/slideshow/60171876.cms>)has proved itself to be popular over the years, particularly in nightclubs. But how do the most prominent vodka bands promote themselves on their bottles?* 
