@@ -2,7 +2,7 @@
 layout: post
 title: Words on Whiskey
 date: 2020-11-10T12:14:22.207Z
-header_feature_image: ../uploads/img_0180.jpg
+header_feature_image: ../uploads/img_0181.png
 comments: true
 ---
 \
