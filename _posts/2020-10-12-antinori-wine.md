@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Text from Tuscany "
-date: 2020-10-09T18:34:48.208Z
+date: 2020-11-10T19:34:48.208Z
 header_feature_image: ../uploads/img_0113.png
 comments: false
 ---
